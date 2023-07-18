@@ -17,4 +17,7 @@ img {
   max-width: 100%;
 }
 
-
+.field {
+  display: inline-grid;
+    justify-items: center;
+}
